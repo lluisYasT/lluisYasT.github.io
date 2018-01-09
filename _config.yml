@@ -24,7 +24,7 @@ github_username:  lluisYasT
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-material-theme
 plugins:
   - jekyll-feed
 
